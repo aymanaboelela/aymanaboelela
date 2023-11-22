@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayman Abo El Ela</h1>
-<h3 align="center">A passionate Flutter developer from Egypt</h3>
+<h3 align="center">A passionate Flutter developer from Egypt</3>h
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 Mobile application development **flutter**
-
-- 👨‍💻 All of my projects are available at ![397324338_292485246944217_6907167895792697454_n](https://github.com/aymanaboelela/aymanaboelela/assets/142680481/32a67dc6-9d33-410c-8bc1-7b00fa4283e9)
-
-
-- 📝 I regularly write articles on [https://www.facebook.com/photo/?fbid=1788927551521960&set=a.132258780522187&locale=ar_AR](https://www.facebook.com/photo/?fbid=1788927551521960&set=a.132258780522187&locale=ar_AR)
 
 - 📫 How to reach me **aymanaboelela222@gmail.com**
 
