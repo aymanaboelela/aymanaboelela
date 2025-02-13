@@ -2,7 +2,7 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 
-<h2 align="left">Hey there! I'm Ayman Abo El Ela</h2>
+<h2 align="center">Hey there! I'm Ayman Abo El Ela</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me  
 🌱 &nbsp;Mobile Application Developer (Flutter)  
@@ -12,7 +12,13 @@
 ![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg) &nbsp;
 ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) &nbsp;
 ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) &nbsp;
-![Adobe XD](https://cdn.worldvectorlogo.com/logos/adobe-xd.svg) &nbsp;
+![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) &nbsp;
+![Supabase](https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg) &nbsp;
+![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) &nbsp;
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) &nbsp;  
+![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg) &nbsp;
+![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) &nbsp;
+![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) &nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me  
 <p align="left">
@@ -35,11 +41,7 @@
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aymanaboelela&theme=dark&hide_border=true"/> 
 </p>
 
-### 🐍 &nbsp;That's How Commits move ...
-<div align="center">   
-<a href="https://github.com/aymanaboelela/">   
-<img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" /></a> 
-</div>
+
 
 <div align="center">   
 <a href="https://github.com/aymanaboelela/">   
