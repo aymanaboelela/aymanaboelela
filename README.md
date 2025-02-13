@@ -1,4 +1,4 @@
-<img alt="Ayman Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="auto"/>
+<img alt="Ayman Coding" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="100%" height="auto"/>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 
@@ -8,13 +8,27 @@
 🌱 &nbsp;Mobile Application Developer (Flutter)  
 📫 &nbsp;How to reach me: **aymanaboelela222@gmail.com**  
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack  
+- 🚀 Flutter Developer
+- 🔥 Firebase Enthusiast
+- 🎨 UI/UX Designer
+- 💻 Backend Integration
+- 📊 Data Visualization
+- ☁️ Cloud Computing
+
 (No icons included)### 🤝🏻 &nbsp;Connect with Me  
 <p align="left">
 <a href="https://fb.com/aymanaboelela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayman abo el ela" height="30" width="40" /></a>
 <a href="https://instagram.com/2ayman6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="2ayman6" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/aymanaboelela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ayman abo el ela" height="30" width="40" /></a>
 </p>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<div align="center">   
+<a href="https://github.com/aymanaboelela/">   
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="contribution-snake" /></a> 
+</div>
 
 ### ⚙️ &nbsp;GitHub Analytics  
 <p align="center">   
