@@ -1,4 +1,4 @@
-![Ayman Abo El Ela Banner](https://github.com/aymanaboelela/aymanaboelela/blob/main/assets/banner.png)
+![Ayman Abo El Ela Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 
@@ -35,7 +35,16 @@
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aymanaboelela&theme=dark&hide_border=true"/> 
 </p>
 
-### 🐍 &nbsp;That's How Commits move ...  
+### 🐍 &nbsp;That's How Commits move ...
+<div align="center">   
+<a href="https://github.com/aymanaboelela/">   
+<img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" /></a> 
+</div>
+
+<div align="center">   
+<a href="https://github.com/aymanaboelela/">   
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="contribution-snake" /></a> 
+</div>  
 <div align="center">   
 <a href="https://github.com/aymanaboelela/">   
 <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" /></a> 
