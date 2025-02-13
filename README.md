@@ -1,4 +1,4 @@
-<img alt="Ayman Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="auto"/>
+<img alt="Ayman Coding" src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="100%" height="auto"/>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 
@@ -9,6 +9,16 @@
 📫 &nbsp;How to reach me: **aymanaboelela222@gmail.com**  
 
 ### 🛠 &nbsp;Tech Stack  
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="30" height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30" height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="30" height="30"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="30" height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30" height="30"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30" height="30"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="30" height="30"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30"/>&nbsp;  
 ![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg) &nbsp;
 ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) &nbsp;
 ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) &nbsp;
