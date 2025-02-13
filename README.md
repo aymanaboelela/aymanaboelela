@@ -1,4 +1,4 @@
-<img alt="Ayman Coding" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="100%" height="auto"/>
+<img alt="Ayman Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="auto"/>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 
@@ -12,9 +12,6 @@
 - 🚀 Flutter Developer
 - 🔥 Firebase Enthusiast
 - 🎨 UI/UX Designer
-- 💻 Backend Integration
-- 📊 Data Visualization
-- ☁️ Cloud Computing
 
 (No icons included)### 🤝🏻 &nbsp;Connect with Me  
 <p align="left">
