@@ -11,9 +11,6 @@
 ### 🛠 &nbsp;Tech Stack  
 ![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg) &nbsp;
 ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) &nbsp;
-![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) &nbsp;
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) &nbsp;
-![Microsoft SQL Server](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg) &nbsp;
 ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) &nbsp;
 ![Adobe XD](https://cdn.worldvectorlogo.com/logos/adobe-xd.svg) &nbsp;
 
