@@ -1,5 +1,3 @@
-![Ayman Abo El Ela Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
 <img alt="Ayman Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="auto"/>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
