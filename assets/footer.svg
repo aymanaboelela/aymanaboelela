@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" width="1200" height="140" fill="none" role="img" aria-label="Thanks for scrolling">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1200" y2="140" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset=".5" stop-color="#111826"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="fink" x1="0" y1="0" x2="520" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#39D0D8"/>
+      <stop offset=".5" stop-color="#58A6FF"/>
+      <stop offset="1" stop-color="#A371F7"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-520 0; 520 0; -520 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="fglow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="45"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="140" fill="url(#fbg)"/>
+
+  <g filter="url(#fglow)" opacity=".45">
+    <circle cx="380" cy="140" r="70" fill="#1F6FEB">
+      <animate attributeName="cx" values="380;480;380" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="820" cy="140" r="70" fill="#A371F7">
+      <animate attributeName="cx" values="820;720;820" dur="14s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <path d="M0 26 Q 300 2 600 26 T 1200 26" stroke="#1F2733" stroke-width="1.5" fill="none"/>
+
+  <text x="600" y="82" text-anchor="middle"
+        font-family="ui-monospace,SFMono-Regular,'JetBrains Mono','Fira Code',Menlo,Consolas,monospace"
+        font-size="19" font-weight="600" fill="url(#fink)">flutter run --release</text>
+
+  <text x="600" y="110" text-anchor="middle"
+        font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif"
+        font-size="13" letter-spacing="3" fill="#8B949E">THANKS FOR SCROLLING &#160;·&#160; LET'S BUILD SOMETHING</text>
+
+  <g fill="#39D0D8">
+    <circle cx="470" cy="76" r="2.5" opacity=".8">
+      <animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="730" cy="76" r="2.5" opacity=".8">
+      <animate attributeName="opacity" values=".2;1;.2" dur="2s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

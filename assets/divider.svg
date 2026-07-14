@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 6" width="1200" height="6" fill="none" role="presentation">
+  <defs>
+    <linearGradient id="rail" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#30363D" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#30363D"/>
+      <stop offset="1" stop-color="#30363D" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="pulse" x1="0" y1="0" x2="280" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset=".45" stop-color="#58A6FF"/>
+      <stop offset=".7" stop-color="#A371F7"/>
+      <stop offset="1" stop-color="#39D0D8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect y="2.5" width="1200" height="1" fill="url(#rail)"/>
+
+  <rect x="-280" y="1" width="280" height="4" rx="2" fill="url(#pulse)">
+    <animate attributeName="x" values="-280;1200" dur="3.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="-280" y="1" width="280" height="4" rx="2" fill="url(#pulse)" opacity=".35">
+    <animate attributeName="x" values="-280;1200" dur="3.8s" begin="1.9s" repeatCount="indefinite"/>
+  </rect>
+</svg>
