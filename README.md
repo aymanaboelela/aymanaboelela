@@ -76,13 +76,20 @@
 
 ### 📊 GitHub Analytics
 
+<!-- NOTE: github-readme-stats.vercel.app (the public instance) is down / rate-limited.
+     These point at a working mirror. If the cards ever break, swap the host. -->
+
 <div align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=aymanaboelela&hide_border=true&border_radius=10&background=0D1117&stroke=30363D&ring=39D0D8&fire=A371F7&currStreakLabel=39D0D8&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymanaboelela&layout=compact&langs_count=8&hide_border=true&border_radius=10&bg_color=0D1117&title_color=39D0D8&text_color=C9D1D9&hide=c%2B%2B,cmake,c,swift,objective-c,ruby,html,css&exclude_repo=flutter,Qubic-AI,dr_-Ai,final-project,Course_Flutter_in_GDSC" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aymanaboelela&layout=compact&langs_count=8&hide_border=true&border_radius=10&bg_color=0D1117&title_color=39D0D8&text_color=C9D1D9&hide=c%2B%2B,cmake,c,swift,objective-c,ruby,html,css&exclude_repo=flutter,Qubic-AI,dr_-Ai,final-project,Course_Flutter_in_GDSC" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aymanaboelela&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&bg_color=0D1117&title_color=39D0D8&icon_color=A371F7&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aymanaboelela&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&bg_color=0D1117&title_color=39D0D8&icon_color=A371F7&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aymanaboelela&custom_title=Commits%20over%20time&bg_color=0D1117&color=C9D1D9&title_color=39D0D8&line=58A6FF&point=A371F7&area=true&area_color=1F6FEB&radius=8&hide_border=true" alt="Activity Graph" />
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -95,6 +102,12 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aymanaboelela/aymanaboelela/output/github-snake.svg" />
     <img width="100%" alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/aymanaboelela/aymanaboelela/output/github-snake.svg" />
   </picture>
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=algolia&animation=grow_out_in&border=true&quoteCategory=programming" alt="Dev quote" />
 </div>
 
 <img src="./assets/footer.svg" width="100%" alt="Thanks for scrolling" />
